@@ -1,1 +1,2 @@
 Bienvenido al mundo OSCURO.
+Sonido al 80%. (Cambio desde Github)
